@@ -1,5 +1,5 @@
 # tornado-session
-(This project has be rename as `redis_session` please navigate to https://github.com/devfans/redis_session for latest update.)
+(This project has be rename as `redis_session` please navigate to https://github.com/devfans/redis-session for latest update.)
 tornado session implementation with redis store
 
 
